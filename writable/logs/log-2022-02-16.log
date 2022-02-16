@@ -1,0 +1,50 @@
+CRITICAL - 2022-02-16 11:22:09 --> Invalid file: welcome_message.php
+#0 C:\wamp64\www\pw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\wamp64\www\pw3\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\wamp64\www\pw3\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\wamp64\www\pw3\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\pw3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\pw3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\pw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\pw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\p...')
+#8 {main}
+CRITICAL - 2022-02-16 11:22:12 --> Invalid file: welcome_message.php
+#0 C:\wamp64\www\pw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\wamp64\www\pw3\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\wamp64\www\pw3\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\wamp64\www\pw3\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\pw3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\pw3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\pw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\pw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\p...')
+#8 {main}
+CRITICAL - 2022-02-16 11:22:12 --> Invalid file: welcome_message.php
+#0 C:\wamp64\www\pw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\wamp64\www\pw3\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\wamp64\www\pw3\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\wamp64\www\pw3\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\pw3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\pw3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\pw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\pw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\p...')
+#8 {main}
+CRITICAL - 2022-02-16 11:22:13 --> Invalid file: welcome_message.php
+#0 C:\wamp64\www\pw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\wamp64\www\pw3\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\wamp64\www\pw3\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\wamp64\www\pw3\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\pw3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\pw3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\pw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\pw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\p...')
+#8 {main}
+CRITICAL - 2022-02-16 11:22:13 --> Invalid file: welcome_message.php
+#0 C:\wamp64\www\pw3\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\wamp64\www\pw3\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\wamp64\www\pw3\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\wamp64\www\pw3\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\pw3\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\pw3\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\pw3\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\pw3\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\p...')
+#8 {main}
